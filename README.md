@@ -4,5 +4,3 @@
 * ### Built using Unity Editor version `2020.3.1f1`
 ## Releases
 ### For All Releases [`Click Here`](https://github.com/Jazzmedo/The-Maze/releases)
-
-/*fas*/
