@@ -5,3 +5,4 @@
 ## Releases
 ### For All Releases [`Click Here`](https://github.com/Jazzmedo/The-Maze/releases)
 
+/*fas*/
